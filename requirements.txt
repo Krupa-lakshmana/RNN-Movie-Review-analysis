@@ -1,5 +1,6 @@
 tensorflow-macos==2.16.2
 tensorflow-metal==1.2.0
+tensorflow==2.16.2
 keras==3.3.2
 ml-dtypes==0.3.2
 tensorboard==2.16.2
