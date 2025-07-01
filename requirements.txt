@@ -1,0 +1,12 @@
+tensorflow-macos==2.16.2
+tensorflow-metal==1.2.0
+keras==3.3.2
+ml-dtypes==0.3.2
+tensorboard==2.16.2
+
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+scikeras
